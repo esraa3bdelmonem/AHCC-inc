@@ -1,0 +1,15 @@
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net6.0\IEnumerable and IQueryable.exe
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net6.0\IEnumerable and IQueryable.deps.json
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net6.0\IEnumerable and IQueryable.runtimeconfig.json
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net6.0\IEnumerable and IQueryable.dll
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\bin\Debug\net6.0\IEnumerable and IQueryable.pdb
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\IEnumerable and IQueryable.csproj.AssemblyReference.cache
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\IEnumerable and IQueryable.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\IEnumerable and IQueryable.AssemblyInfoInputs.cache
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\IEnumerable and IQueryable.AssemblyInfo.cs
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\IEnumerable and IQueryable.csproj.CoreCompileInputs.cache
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\IEnumerable and IQueryable.dll
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\refint\IEnumerable and IQueryable.dll
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\IEnumerable and IQueryable.pdb
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\IEnumerable and IQueryable.genruntimeconfig.cache
+F:\Final\IEnumerable and IQueryable\IEnumerable and IQueryable\obj\Debug\net6.0\ref\IEnumerable and IQueryable.dll

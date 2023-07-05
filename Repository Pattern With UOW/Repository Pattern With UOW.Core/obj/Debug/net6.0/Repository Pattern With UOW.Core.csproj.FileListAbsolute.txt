@@ -1,0 +1,17 @@
+F:\Database\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.csproj.AssemblyReference.cache
+F:\Database\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Database\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.AssemblyInfoInputs.cache
+F:\Database\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.AssemblyInfo.cs
+F:\Database\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\bin\Debug\net6.0\Repository Pattern With UOW.Core.deps.json
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\bin\Debug\net6.0\Repository Pattern With UOW.Core.dll
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\bin\Debug\net6.0\Repository Pattern With UOW.Core.pdb
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.csproj.AssemblyReference.cache
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.AssemblyInfoInputs.cache
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.AssemblyInfo.cs
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.dll
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\refint\Repository Pattern With UOW.Core.dll
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\Repository Pattern With UOW.Core.pdb
+C:\Users\Esraa\Downloads\Repository Pattern With UOW\Repository Pattern With UOW.Core\obj\Debug\net6.0\ref\Repository Pattern With UOW.Core.dll

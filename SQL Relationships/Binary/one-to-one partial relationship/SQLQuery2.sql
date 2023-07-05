@@ -1,0 +1,19 @@
+------
+CREATE TABLE EMP (
+  eid INT PRIMARY KEY,
+  ename VARCHAR(50)
+ 
+);
+
+CREATE TABLE CAR (
+  CID INT PRIMARY KEY,
+  CTYOE VARCHAR(50)
+
+);
+CREATE TABLE EMPCAR (
+  
+  eid INT PRIMARY KEY,
+  CID INT 
+ 
+
+);

@@ -1,0 +1,15 @@
+D:\_TASKS\OOPExamples\OOPExamples\bin\Debug\net6.0\OOPExamples.exe
+D:\_TASKS\OOPExamples\OOPExamples\bin\Debug\net6.0\OOPExamples.deps.json
+D:\_TASKS\OOPExamples\OOPExamples\bin\Debug\net6.0\OOPExamples.runtimeconfig.json
+D:\_TASKS\OOPExamples\OOPExamples\bin\Debug\net6.0\OOPExamples.dll
+D:\_TASKS\OOPExamples\OOPExamples\bin\Debug\net6.0\OOPExamples.pdb
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\OOPExamples.csproj.AssemblyReference.cache
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\OOPExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\OOPExamples.AssemblyInfoInputs.cache
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\OOPExamples.AssemblyInfo.cs
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\OOPExamples.csproj.CoreCompileInputs.cache
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\OOPExamples.dll
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\refint\OOPExamples.dll
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\OOPExamples.pdb
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\OOPExamples.genruntimeconfig.cache
+D:\_TASKS\OOPExamples\OOPExamples\obj\Debug\net6.0\ref\OOPExamples.dll

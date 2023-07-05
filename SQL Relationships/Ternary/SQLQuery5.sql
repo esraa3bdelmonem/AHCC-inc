@@ -1,0 +1,8 @@
+CREATE TABLE Employee (
+pid int, 
+  did INT PRIMARY KEY,
+  TreatmentCode VARCHAR(50),
+  DATE DATE PRIMARY KEY,
+  TIME TIME PRIMARY KEY,
+  RESULT VARCHAR(50)
+);

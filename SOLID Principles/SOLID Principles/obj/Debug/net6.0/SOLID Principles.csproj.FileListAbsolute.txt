@@ -1,0 +1,5 @@
+F:\Final\SOLID Principles\SOLID Principles\obj\Debug\net6.0\SOLID Principles.csproj.AssemblyReference.cache
+F:\Final\SOLID Principles\SOLID Principles\obj\Debug\net6.0\SOLID Principles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final\SOLID Principles\SOLID Principles\obj\Debug\net6.0\SOLID Principles.AssemblyInfoInputs.cache
+F:\Final\SOLID Principles\SOLID Principles\obj\Debug\net6.0\SOLID Principles.AssemblyInfo.cs
+F:\Final\SOLID Principles\SOLID Principles\obj\Debug\net6.0\SOLID Principles.csproj.CoreCompileInputs.cache
